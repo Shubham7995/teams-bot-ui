@@ -1,0 +1,9 @@
+myenv/
+teams_bot_ui.egg-info/
+dist/
+.pypirc
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
